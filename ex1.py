@@ -40,3 +40,6 @@ axes[1, 1].set_title('Scatter Plot of Variable 1 vs Variable 2')
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 plt.show()
 
+
+
+
